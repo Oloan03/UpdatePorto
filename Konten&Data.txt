@@ -1,0 +1,15 @@
+Informasi Pribadi:
+Nama Lengkap : Oloan Napitupulu
+Posisi/Tagline : Aspiring Data Scientist | AI & Machine Learning Enthusiast
+Foto profile : -
+Deskripsi singkat: Saya memiliki minat di bidang data, saya sangat tertarik untuk mengolah data dan menemukan solusi dari masalah yang di informasikan lewat data
+Informasi kontak: Email(oloann23@gmail.com), LinkedIn(Oloan), Githjub(Oloan03), Jakarta.
+Latar Belakang:
+Pendidikan: S1 Teknik Informatika, Institut Teknologi Sumatera, 2020, "Saya menyelesaikan program sarjana saya dengan mengangkat topik evaluasi kernel SVM terhadap klasifikasi sentimen bitcoin"
+Sertifikat:(menyusul)
+Skillset:
+		-Bahasa Pemrograman : Python Advance Begineer, SQL, JavaScript (HTML&CSS)
+		- Libraries & Tools : Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib/Seaborn, Tableau/Power BI, Git, dll.
+		- Konsep : Machine Learning, Deep Learning, Statistik, Visualisasi Data, Data Wrangling.
+Proyek Portofolio: (Menyusul dan akan disesuaikan)
+Pengalaman: Mengerjakan Tugas Besar Mata Kuliah Visualisasi Data, Machine Learning, Tugas Akhir dengan menggunakan data asli yang diambil secara manual
